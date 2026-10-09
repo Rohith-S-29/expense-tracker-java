@@ -1,0 +1,6 @@
+*.class
+.idea/
+.vscode/
+reports/
+data/expenses.csv
+data/budget.txt
